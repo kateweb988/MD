@@ -1,0 +1,27 @@
+
+@font-face {
+    font-family: 'Bebas Neue Pro';
+    src: url('/fonts/BebasNeuePro-Bold.eot');
+    src: url('/fonts/BebasNeuePro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/BebasNeuePro-Bold.woff2') format('woff2'),
+        url('/fonts/BebasNeuePro-Bold.woff') format('woff'),
+        url('/fonts/BebasNeuePro-Bold.ttf') format('truetype'),
+        url('/fonts/BebasNeuePro-Bold.svg#BebasNeuePro-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bebas Neue Pro Expanded XBold';
+    src: url('/fonts/BebasNeuePro-ExpandedExtraBold.eot');
+    src: url('/fonts/BebasNeuePro-ExpandedExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/BebasNeuePro-ExpandedExtraBold.woff2') format('woff2'),
+        url('/fonts/BebasNeuePro-ExpandedExtraBold.woff') format('woff'),
+        url('/fonts/BebasNeuePro-ExpandedExtraBold.ttf') format('truetype'),
+        url('/fonts/BebasNeuePro-ExpandedExtraBold.svg#BebasNeuePro-ExpandedExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
